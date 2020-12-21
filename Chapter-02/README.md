@@ -39,14 +39,16 @@
     else:
         print('ham')
     print('spam')
-    ```
+  ```
     
    2nd block:
-    ```python 
+   
+   ```python 
     print('bacon')
-    ```
+   ```
     
    3rd block:
+   
    ```python
    print('ham')
    ```
