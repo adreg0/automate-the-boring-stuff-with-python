@@ -31,6 +31,27 @@
 5) ==,>,<,>=,<=,!=
 6) equal to(==) is used to compare two values and return a boolean value, whereas = is an assignment operator.
 7) To return a bool in flow control statements like loops and conditional statements.
+8) 1st block:
+  ```python
+  print('eggs')
+    if spam > 5:
+        print('bacon')
+    else:
+        print('ham')
+    print('spam')
+    ```
+    
+   2nd block:
+    ```python 
+    print('bacon')
+    ```
+    
+   3rd block:
+   ```python
+   print('ham')
+   ```
+    
+  
 9) ```python
    if (spam==1):
         print ('Hello')
@@ -38,6 +59,7 @@
         print('Howdy')
     else:
         print('Greetings!')
+   ```
 
 10) ctrl+c
 11) Break will takes the control outside of the loop when used whereas continue will takes the control to the starting of the loop.
@@ -52,6 +74,7 @@
     while(i<=10):
         print(i)
         i+=1
+    ```
 
 14) spam.bacon()
         
