@@ -9,6 +9,7 @@
 8) [3.14,11,'cat',True,99]
 9) list concatenation- +
  list replication- *
+
 10)index can add an element at any required index, whereas append will add the element at the end of the list.
 11) remove(),del
 12) slicing can be done for lists and strings, operations like concatenation and replication can be done.
