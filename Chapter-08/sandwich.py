@@ -41,7 +41,7 @@ else:
     addons=0
     
 units="No. of sandwiches needed= ?"
-units=pyip.inputNum(units,min=1)
+units=pyip.inputInt(units,min=1)
 sandwich = bread+protein+cheese+addons
 gross=units*sandwich
 print("Total mount to be paid : ",gross)
